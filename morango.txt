@@ -1,0 +1,4 @@
+temperaturaMax 30 //ligar
+temperaturaMin 15 //desligar
+umidadeMin  50  //ligar
+umidadeMax  70 //desligar
